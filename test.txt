@@ -1,0 +1,3 @@
+mylines.txtHello
+blah blah blah
+yada yaha
